@@ -1,0 +1,182 @@
+{
+  "listing_id": "310096794391",
+  "url": "https://www.realestate.com.au/international/id/denpasar-bali-indonesia-denpasar-bali-310096794391/",
+  "price": "AUD $1,291,811",
+  "location": {
+    "country": "id",
+    "countryCode": "id",
+    "state": "Bali",
+    "stateCode": "Bali",
+    "city": "Denpasar",
+    "postalcode": "80228",
+    "streetaddr": "Denpasar, Bali, Indonesia",
+    "__typename": "LocationInfo"
+  },
+  "multilingual": {
+    "fullAddress": "Denpasar, Bali, Indonesia, Denpasar, Bali 80228",
+    "streetAddress": "Denpasar, Bali, Indonesia",
+    "country": "id",
+    "countryName": "Indonesia",
+    "state": "Bali",
+    "city": "Denpasar",
+    "description": "Ideal project for living and earning passive income through a transparent management scheme. LUXURIOUS APARTMENTS FOR SALE AT MAGNUM RESIDENCE SANUR - ELEGANCE, STYLE, COMFORT - DISCOVER A NEW LEVEL OF REAL ESTATE IN BALI. Guaranteed safe and reliable transaction. Rental yield of 11-15%, with resale up to 30% annually. Designer-finished and fully furnished apartments in a unique project unmatched in Bali: - Area - 204 m2. Private pool and jacuzzi on the balcony with stunning ocean views from the apartments. - Panoramic views of the ocean, rice terraces, and volcano. - Modern design, high-quality finishes, furniture, and fittings. 5 amenities and services. All necessary infrastructure for living, working, and entertainment within the complex - beach club, restaurant, lounge bar, spa, coworking, fitness center, yoga studio, and childrens space. - ROOFTOP LOUNGE BAR. - Maximum comfort for long-term and short-term stays. - Private beach. The residential complex is located in the center of the tourist development of Bali, in the Sanur area with long sandy beaches, a calm ocean, and a relaxing atmosphere. All kinds of beach recreation, hundreds of cafes and restaurants along the coastline, as well as a market, shops, boutiques, kindergartens, and an international school within walking distance. The promenade is 5.5 km long. Returns of 11-15.3% per year during the first three years. Value increase in 1.5 - 2 years of 60-80%. The square meter price will increase by approximately 20-25 percent as each stage of construction is completed. Tourism in Bali is growing by an average of about 20 percent per year after Covid. Real estate investments in Southeast Asia continue to grow at an average of 30% per year. Own management company. Possibility of self-management and renting out. Living without time restrictions. Ways to purchase: You can buy property either remotely or by coming to Bali in person. Payment is available via bank transfer from any country, as well as the option to pay legally with cryptocurrency. Fast property processing in 1-3 days. 100% transaction safety with support from professional lawyers. Possibility to legally pay with cryptocurrency. All apartments are equipped with an intelligent home management system that uses voice commands. A mobile app that does it all: manage home electronics, complex infrastructure, services, access, and monitor your investments. By purchasing an apartment in this complex, you are guaranteed the best location and a sought-after real estate format, perfect for both vacationing and permanent living. We are happy to answer your questions by phone, call us!",
+    "tagline": "",
+    "agentName": "Dmitry Sartakov",
+    "agencyName": "Kinnara",
+    "__typename": "Multilingual"
+  },
+  "buildingFeature": {
+    "indoorFeature": {
+      "features": {
+        "type": "json",
+        "json": [
+          "internet",
+          "outdoorSwimmingPool"
+        ]
+      },
+      "bedrooms": null,
+      "livingAreas": null,
+      "livings": null,
+      "basements": null,
+      "studies": null,
+      "floorCoverings": {
+        "type": "json",
+        "json": []
+      },
+      "roofTypes": {
+        "type": "json",
+        "json": []
+      },
+      "roomTypes": {
+        "type": "json",
+        "json": []
+      },
+      "heatingFuel": {
+        "type": "json",
+        "json": []
+      },
+      "heatingSystem": {
+        "type": "json",
+        "json": []
+      },
+      "appliances": {
+        "type": "json",
+        "json": []
+      },
+      "coolingSystem": {
+        "type": "json",
+        "json": []
+      },
+      "baths": null,
+      "__typename": "IndoorFeature"
+    },
+    "outdoorFeature": {
+      "features": {
+        "type": "json",
+        "json": [
+          "pool"
+        ]
+      },
+      "parking": null,
+      "exteriorTypes": {
+        "type": "json",
+        "json": []
+      },
+      "__typename": "OutdoorFeature"
+    },
+    "energyEfficiencyFeature": {
+      "energyEfficiencyRating": null,
+      "ratingDescription": null,
+      "solarPanels": false,
+      "solarHotWater": false,
+      "waterTank": false,
+      "greyWaterSystem": false,
+      "__typename": "EnergyEfficiencyFeature"
+    }
+  },
+  "listhubFeature": {
+    "elevation": null,
+    "architectureStyle": null,
+    "buildingUnitCount": 0,
+    "condoFloorNum": 0,
+    "numFloors": 0,
+    "yearUpdated": null,
+    "viewTypes": {
+      "type": "json",
+      "json": []
+    },
+    "providerInfo": null,
+    "franchise": null,
+    "county": null,
+    "community": null,
+    "parcelId": null,
+    "neighbourhoods": [],
+    "disclaimer": null,
+    "__typename": "ListhubFeature"
+  },
+  "realtorFeatures": {
+    "neighbourhoods": {
+      "name": null,
+      "__typename": "Neighbourhood"
+    },
+    "__typename": "RealtorFeatures"
+  },
+  "geoLocation": {
+    "latitude": -8.690096,
+    "longitude": 115.257087,
+    "__typename": "GeoLocation"
+  },
+  "publishedAt": "2025-01-16 05:58:36",
+  "updatedAt": "2025-08-14 08:35:45",
+  "agency": {
+    "agencyId": "6277724",
+    "agencyPrimaryColor": "",
+    "fullAddress": null,
+    "officePhone": "+66 80 920 1023",
+    "agencyName": "Kinnara",
+    "__typename": "Agency"
+  },
+  "landSize": "204.00",
+  "buildingSize": "204.00",
+  "agent": {
+    "id": "6348729",
+    "name": "Dmitry Sartakov",
+    "agencyName": "Kinnara",
+    "agencyId": "6277724",
+    "officePhone": "+66 80 920 1023",
+    "agentType": "",
+    "address": {
+      "country": null,
+      "countryCode": null,
+      "state": null,
+      "stateCode": null,
+      "city": null,
+      "postalcode": null,
+      "streetaddr": null,
+      "__typename": "LocationInfo"
+    },
+    "contact": {
+      "phone": "",
+      "emails": {
+        "type": "json",
+        "json": [
+          "wsfcpdub@mailparser.io"
+        ]
+      },
+      "website": "https://kinnara.asia/",
+      "mobile": "+66 80 920 1023",
+      "__typename": "Contact"
+    },
+    "agencyLogos": null,
+    "images": [
+      {
+        "type": "PHOTO",
+        "path": "realtor_global/id/0341f8c495c845ea3666f99e84d67433.jpg",
+        "__typename": "Image"
+      }
+    ],
+    "primaryColor": null,
+    "socialMedias": [],
+    "__typename": "Agent"
+  }
+}

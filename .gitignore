@@ -125,7 +125,6 @@ celerybeat.pid
 env/
 venv/
 ENV/
-data
 dumps
 private
 env.bak/
